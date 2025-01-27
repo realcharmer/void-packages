@@ -1,0 +1,14 @@
+# Template file for 'tidyall'
+pkgname=tidyall
+version=0.84
+revision=1
+build_style=perl-module
+hostmakedepends="perl"
+makedepends="${hostmakedepends}"
+depends="${makedepends}"
+short_desc="All-in-one code tidier and validator"
+maintainer="Emil Miler <em@0x45.cz>"
+license="GPL-1.0-or-later"
+homepage="https://metacpan.org/dist/Code-TidyAll/view/bin/tidyall"
+distfiles="${CPAN_SITE}/Code/Code-TidyAll-${version}.tar.gz"
+checksum=b3c014e1edd7f440479098e41e4787361072f5013a66a5f88f96b4e53ca2b1f7
