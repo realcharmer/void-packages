@@ -1,0 +1,12 @@
+# Template file for 'httm'
+pkgname=httm
+version=0.50.0
+revision=1
+build_style=cargo
+short_desc="Interactive file-level time machine tool"
+maintainer="Emil Miler <em@0x45.cz>"
+license="MPL-2.0"
+homepage="https://github.com/kimono-koans/httm"
+changelog="https://github.com/kimono-koans/httm/releases"
+distfiles="https://github.com/kimono-koans/httm/archive/refs/tags/${version}.tar.gz"
+checksum=d9e5f35a15c1049058bc8747f83ef3641b543675d211f7a890a310f55574bf26
